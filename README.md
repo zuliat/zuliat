@@ -16,5 +16,5 @@ I'm a Software Engineer, Content Creator, and Community Engineer. I'm passionate
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Zuliat's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuliatsanni&langs_count=8&layout=compact&hide_border=true" alt="Zuliat's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Zuliat's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuliat&langs_count=8&layout=compact&hide_border=true" alt="Zuliat's GitHub stats" /> |
 | ------------- | ------------- |
